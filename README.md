@@ -11,3 +11,6 @@ reference - https://www.yesodweb.com
 Use getting started and also book reference.
 
 Note runhaskell does not work after using quickstart, runghc is needed
+
+3. Cardano wallet spec - 
+https://cardanodocs.com/files/formal-specification-of-the-cardano-wallet.pdf
